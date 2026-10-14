@@ -1,0 +1,19 @@
+{
+  "appName": "HelmIDE New",
+  "port": 3040,
+  "user": {
+    "name": "Stefano",
+    "workspacePath": ""
+  },
+  "apiKeys": {
+    "googleAiStudio": "",
+    "deepseek": "",
+    "anthropic": "",
+    "openai": "",
+    "openrouter": ""
+  },
+  "models": {
+    "default": "gemini-2.5-flash",
+    "custom": []
+  }
+}

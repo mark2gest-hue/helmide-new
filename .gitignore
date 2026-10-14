@@ -1,0 +1,12 @@
+# Dipendenze
+node_modules/
+
+# File di configurazione personale utente (con chiavi private)
+helmide.config.json
+
+# Log e cache di sistema
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+*.log

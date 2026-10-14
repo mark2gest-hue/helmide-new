@@ -1,0 +1,1 @@
+# 🎬 Video & Audio Script Processor\n\nElabora video, audio e trascrizioni grezze. Genera copioni scorrevoli per teleprompter, scalette a capitoli, estrazione punti chiave e prompt per slide didattiche.\n\n## Modello\nDefault: Google Gemini 2.5 Flash (Tier Free)\n

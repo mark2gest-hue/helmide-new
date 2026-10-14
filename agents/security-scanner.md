@@ -1,0 +1,1 @@
+# 🛡️ Security & Vulnerability Scanner\n\nEsegue audit perimetrali su web app, siti e VPS. Rileva file .env esposti, porte aperte non necessarie, dipendenze npm vulnerabili e configurazioni Nginx deboli.\n\n## Modello\nDefault: Google Gemini 2.5 Flash (Tier Free)\n

@@ -1,0 +1,1 @@
+# 📦 Desktop App Packager (Ares Engine)\n\nSpecializzato nell impacchettamento di script e web app in file eseguibili autonomi (.exe per Windows, .app per Mac) pronti al doppio clic con icone personalizzate.\n\n## Modello\nDefault: Google Gemini 2.5 Flash (Tier Free)\n

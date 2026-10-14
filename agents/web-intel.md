@@ -1,0 +1,1 @@
+# 🔍 Competitor & Web Intelligence\n\nEstrae dati pubblici, monitora variazioni di listini, prezzi di concorrenti e novità di catalogo su pagine web e-commerce o portali di settore.\n\n## Modello\nDefault: Google Gemini 2.5 Flash (Tier Free)\n

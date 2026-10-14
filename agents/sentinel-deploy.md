@@ -1,0 +1,1 @@
+# 🚀 Sentinel & Deploy Automator\n\nValida il codice prima del rilascio (typecheck, linter, test anti-regressione) e gestisce pubblicazioni sicure con rollback automatico in caso di errore.\n\n## Modello\nDefault: Google Gemini 2.5 Flash (Tier Free)\n

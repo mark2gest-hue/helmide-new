@@ -1,0 +1,11 @@
+{
+  "name": "helmide-new",
+  "version": "1.0.0",
+  "description": "HelmIDE New - Autonomous Agentic Cockpit & IDE Guardrails",
+  "type": "module",
+  "main": "server/index.mjs",
+  "scripts": {
+    "start": "node server/index.mjs",
+    "dev": "node server/index.mjs"
+  }
+}
