@@ -6,6 +6,7 @@
   "main": "server/index.mjs",
   "scripts": {
     "start": "node server/index.mjs",
-    "dev": "node server/index.mjs"
+    "dev": "node server/index.mjs",
+    "update": "git pull origin main"
   }
 }
