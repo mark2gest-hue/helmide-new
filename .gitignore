@@ -1,8 +1,14 @@
 # Dipendenze
 node_modules/
 
-# File di configurazione personale utente (con chiavi private)
+# File di configurazione personale utente (con chiavi private, workspace e percorsi)
+# Questo file NON viene MAI toccato o sovrascritto da git pull / npm run update
 helmide.config.json
+
+# Memoria di lavoro specifica dell'utente
+SESSION_STATE.md
+memory/sessions/
+memory/decisions/
 
 # Log e cache di sistema
 npm-debug.log*
